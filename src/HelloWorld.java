@@ -8,7 +8,7 @@ public class HelloWorld {
     private String[] subjects;
 
     public static void main(String[] args){
-
+        String temp;
     }
 
     public String getGender() {
